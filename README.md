@@ -45,4 +45,4 @@ G. Run your cookiecutter
 `cookiecutter \path\to\CookieMonster`
 
 
-F. See running **hooks** to run scrips before or after cookiecutter runs
+F. See running **hooks** to run scripts before or after cookiecutter runs
