@@ -1,0 +1,21 @@
+{
+    "directory_name": "Hello",
+    "file_name": ["app1", "app2"],
+    "greeting_recipient": {
+        "png": {
+            "name": "Portable Network Graphic",
+            "library": "libpng",
+            "apps": [
+                "GIMP"
+            ]
+        },
+        "bmp": {
+            "name": "Bitmap",
+            "library": "libbmp",
+            "apps": [
+                "Paint",
+                "GIMP"
+            ]
+        }
+    }
+}
